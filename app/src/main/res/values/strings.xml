@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock Comperator</string>
+    <string name="week_title">Week</string>
+    <string name="month_title">Month</string>
+</resources>
